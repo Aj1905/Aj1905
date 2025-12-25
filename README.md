@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🛠 開発中のプロジェクト
+
+[![repo card](https://github-readme-stats.vercel.app/api/pin/?username=【組織名】&repo=【レポジトリ名】&show_owner=true)](https://github.com/【組織名】/【レポジトリ名】)
