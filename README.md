@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 ### 🛠 開発中のプロジェクト
 
-[![repo card](https://github-readme-stats.vercel.app/api/pin/?username=Kamomemon&repo=prompt-sns&show_owner=true)](https://github.com/Kamomemon/prompt-sns
-)
+<a href="https://github.com/Kamomemon/prompt-sns">
+  <img src="https://cdn.bap-software.net/2024/08/19160659/Prompt-danh-cho-Dev.webp" width="400" alt="Project Screenshot" style="border-radius: 10px; border: 1px solid #ddd;">
+</a>
+
+<br>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
