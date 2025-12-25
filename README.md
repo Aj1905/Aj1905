@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ### 🛠 開発中のプロジェクト
 
-[![repo card](https://github-readme-stats.vercel.app/api/pin/?username=Kamomemon&repo=prompt-sns.git&show_owner=true)](https://github.com/Kamomemon/prompt-sns.git)
+[![repo card](https://github-readme-stats.vercel.app/api/pin/?username=Kamomemon&repo=prompt-sns&show_owner=true)](https://github.com/Kamomemon/prompt-sns
+)
