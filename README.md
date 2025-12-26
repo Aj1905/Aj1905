@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
+#### プロンプトSNS
 - **役割:** 企画・開発
 - **詳細:** チーム2名での開発。日本のAI普及率を上げることを目指して行いました。
