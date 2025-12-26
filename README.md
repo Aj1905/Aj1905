@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠 開発中のプロジェクト
+### 🛠 携わったプロジェクト
 
 <a href="https://github.com/Kamomemon/prompt-sns">
   <img src="https://cdn.bap-software.net/2024/08/19160659/Prompt-danh-cho-Dev.webp" width="400" alt="Project Screenshot" style="border-radius: 10px; border: 1px solid #ddd;">
