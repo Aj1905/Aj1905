@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🛠 携わったプロジェクト
 
-#### ・　プロンプトSNS
+#### ○　プロンプトSNS
 - **役割:** 企画・開発
 - **詳細:** チーム2名での開発。日本のAI普及率を上げることを目指して行いました。
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 
-#### ・　需要予測AIモデル開発
+#### ○　需要予測AIモデル開発
 - **役割:** 開発
 - **詳細:** チーム2名での開発。キリンシティ様,Hub様のシフト管理のための需要予測モデルを構築しました。
 
