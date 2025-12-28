@@ -32,3 +32,16 @@ Here are some ideas to get you started:
 #### プロンプトSNS
 - **役割:** 企画・開発
 - **詳細:** チーム2名での開発。日本のAI普及率を上げることを目指して行いました。
+
+
+<a href="https://github.com/Kamomemon/prompt-sns">
+  <img src="https://cdn.bap-software.net/2024/08/19160659/Prompt-danh-cho-Dev.webp" width="400" alt="Project Screenshot" style="border-radius: 10px; border: 1px solid #ddd;">
+</a>
+
+<br>
+
+
+#### 需要予測AIモデル開発
+- **役割:** 開発
+- **詳細:** チーム2名での開発。キリンシティ様,Hub様のシフト管理のための需要予測モデルを構築しました。
+
