@@ -34,12 +34,16 @@ Here are some ideas to get you started:
 - **詳細:** チーム2名での開発。日本のAI普及率を上げることを目指して行いました。
 
 
-<a href="https://github.com/Kamomemon/prompt-sns">
+<a href="https://github.com/Plate-One/forecasting_poc.git">
   <img src="https://cdn.bap-software.net/2024/08/19160659/Prompt-danh-cho-Dev.webp" width="400" alt="Project Screenshot" style="border-radius: 10px; border: 1px solid #ddd;">
 </a>
 
 <br>
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-white?style=flat-square)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 #### 需要予測AIモデル開発
 - **役割:** 開発
