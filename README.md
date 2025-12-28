@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Plate-One/forecasting_poc.git">
-  <img src="https://www.cross-m.co.jp/column/data_marketing/dtm20211224" width="400" alt="Project Screenshot" style="border-radius: 10px; border: 1px solid #ddd;">
+  <img src="https://www.cross-m.co.jp/hs-fs/hubfs/Imported_Blog_Media/20211224_01-3.jpg?width=1580&name=20211224_01-3.jpg" width="400" alt="Project Screenshot" style="border-radius: 10px; border: 1px solid #ddd;">
 </a>
 
 <br>
